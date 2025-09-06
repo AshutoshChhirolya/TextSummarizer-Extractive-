@@ -1,7 +1,7 @@
 # Text Summarizer
 
 ## 📌 Overview
-The **Text Summarizer** is an NLP-based project that extracts key information from large documents by generating concise summaries. It supports both extractive and abstractive summarization methods using deep learning and traditional NLP techniques.
+The **Text Summarizer** is an NLP-based project that extracts key information from large documents by generating concise summaries. It supports extractive summarization methods using deep learning and traditional NLP techniques.
 
 ## ✨ Features
 - 📜 Extractive and abstractive summarization
@@ -14,7 +14,7 @@ The **Text Summarizer** is an NLP-based project that extracts key information fr
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/aryanswain2805/text-summarizer.git
+git clone https://github.com/ashutoshchhirolya/text-summarizer.git
 cd text-summarizer
 ```
 
@@ -52,7 +52,7 @@ print(summary)
 Natural language processing (NLP) is a subfield of AI that focuses on the interaction between humans and computers using natural language...
 ```
 
-### Output (Abstractive Summary)
+### Output (Extractive Summary)
 ```
 NLP is a field of AI enabling human-computer interaction using natural language.
 ```
